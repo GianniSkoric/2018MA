@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-07_2057",
-    "currentPage": "page1.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#000000"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6504,7 +6506,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><p><b>UPCOMING EVENTS</b></p><p><b>Event about Frans Masereel residence</b></p><p><b>Laat me doenic- unknown date...</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><b>UPCOMING EVENTS</b><div><b><br></b></div><div><b>Event about Frans Masereel residence</b></div><div><b><br></b></div><div><b>Laat me doenic- unknown date...</b></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content2-19",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
