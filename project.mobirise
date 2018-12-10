@@ -64,7 +64,7 @@
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
             "spacing": "0",
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColorRadio": true,
