@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-07_2057",
-    "currentPage": "page1.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6507,7 +6507,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><b>UPCOMING EVENTS</b><div><br></div><div>Event about Frans Masereel residence</div><div><br></div><div>Laat me doenic- unknown date...</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><b>UPCOMING EVENTS</b><div><br></div><div><br></div><div>Laat me doenic- unknown date...</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content2-19",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -6533,7 +6533,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><p><b>PAST EVENTS</b></p><p><b>Duo Exhibition: Gianni Skoric en Aleksandar Almarales &nbsp;- 15/03/'18</b></p><p>Antwerp- Martin Van Blerk Gallery</p><p><font color=\"#232323\"><b>Espectro: 'Zomerzintuigen' - &nbsp;...'14</b></font></p><p>Antwerp- Het Huis Happaert</p><p><br></p><p><br></p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article><p><b style=\"font-size: 1rem;\">PAST EVENTS</b><br></p><p><b>APPLAUS 6/12/18</b></p><p>Expo about the Frans Masereel residence</p><p>Gent - Carré, luca school of arts</p><p><b style=\"font-size: 1rem;\">Duo Exhibition: Gianni Skoric en Aleksandar Almarales &nbsp;- 15/03/'18</b><br></p><p>Antwerp- Martin Van Blerk Gallery</p><p><font color=\"#232323\"><b>Espectro: 'Zomerzintuigen' - &nbsp;...'14</b></font></p><p>Antwerp- Het Huis Happaert</p><p><br></p><p><br></p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "ravMpUQqzd",
           "_anchor": "content2-17",
           "_protectedParams": [],
